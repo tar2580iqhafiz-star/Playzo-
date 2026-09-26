@@ -1,0 +1,6 @@
+{
+  "name": "Playzo",
+  "description": "Modern social video-sharing platform with feeds, creators, follow system, search, and video upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
